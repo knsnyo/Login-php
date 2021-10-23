@@ -8,7 +8,7 @@ xampp
 * MariaDB
 
 언어
-php
-html
-css
-javascript
+* php
+* html
+* css
+* javascript
